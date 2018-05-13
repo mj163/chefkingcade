@@ -1,4 +1,5 @@
 
+
 ## King's Catering & the Capernaum Lakeside Lodge
 My family and I decided to stay at the Caparnaum during Mother's Day weekend.  Though we stayed only one night, there was no way to  kmow
 I would be developing a web site and doing what I love most, traveling and learning about local history.
@@ -13,8 +14,7 @@ After a delicious cajun/creole breakfast, and coffee out on the verandah; I real
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. -
 
-[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
+[![Build Status](https://travis-ci.org/mj163/chefkingcade.svg?branch=master)](https://travis-ci.org/mj163/chefkingcade)
 
 ## Code style
 If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
